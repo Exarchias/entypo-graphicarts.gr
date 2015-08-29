@@ -8,10 +8,11 @@ Released for free under a Creative Commons Attribution 2.5 License
 body {
 	margin: 0px;
 	padding: 0px;
-	background: #FFFFFF url(images/img02.jpg) repeat-x left top;
+	background: #FFFFFF url(images/bgNY.jpg) no-repeat center;
+	background-size: 100% 100%;
 	font-family: 'Abel', sans-serif;
 	font-size: 14px;
-	color: #969493;
+	color: #FFFFFF;
 }
 
 h1, h2, h3 {
@@ -170,10 +171,11 @@ a:hover {
 
 #menu {
 	float: right;
-	width: 600px;
-	height: 90px;
+	width: 400px;
+	height: 110px;
 	margin: 0 auto;
 	padding: 0;
+	background: #FFFFFF
 }
 
 #menu ul {
@@ -219,6 +221,7 @@ a:hover {
 	width: 960px;
 	margin: 0px auto;
 	padding: 30px 0px;
+	
 }
 
 /* Content */
@@ -247,7 +250,7 @@ a:hover {
 	text-transform: uppercase;
 	font-size: 30px;
 	font-weight: normal;
-	color: #000000;
+	color: #FFFFFF;
 }
 
 .post .meta {
@@ -465,8 +468,8 @@ a:hover {
 
 #banner-wrapper {
 	overflow: hidden;
-	height: 400px;
-	background: #000000 url(images/bgNY.jpg) no-repeat center top;
+	height: 0px;
+	background: #000000 url(images/noimage.jpg) no-repeat center top;
 }
 
 #banner {
