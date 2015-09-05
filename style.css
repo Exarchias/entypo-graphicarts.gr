@@ -8,11 +8,13 @@ Released for free under a Creative Commons Attribution 2.5 License
 body {
 	margin: 0px;
 	padding: 0px;
-	background: #FFFFFF url(images/bgNY.jpg) no-repeat center;
+	background: #FFFFFF url(images/bgboat.jpg) no-repeat center;
 	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-position: center;
 	font-family: 'Abel', sans-serif;
 	font-size: 14px;
-	color: #FFFFFF;
+	color: ##000000;
 }
 
 h1, h2, h3 {
@@ -250,7 +252,7 @@ a:hover {
 	text-transform: uppercase;
 	font-size: 30px;
 	font-weight: normal;
-	color: #FFFFFF;
+	color: #000000;
 }
 
 .post .meta {
