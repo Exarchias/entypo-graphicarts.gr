@@ -172,7 +172,7 @@ a:hover {
 
 #menu {
 	float: right;
-	width: 410px;
+	width: 420px;
 	height: 80px;
 	margin: 0 auto;
 	padding: 0;
@@ -295,7 +295,7 @@ a:hover {
     border-width: 2px;
 	border-radius: 15px;
 	background: #FFFFFF;
-	opacity: 0.8;
+	opacity: 0.7;
 	color: #000000;
 	font-weight: 500;
 }
